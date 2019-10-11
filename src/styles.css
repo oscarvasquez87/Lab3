@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+ * {
+    margin: 0px;
+    padding: 0px;
+}
+    body {
+     width: 100vw;
+     height: 100vh;
+     background-image: url(C:\Users\oscar\Desktop\IS51Fall2019\Lab3\LabAssignment3/cat.jpg);
+     background-size: auto;
+     background-color: #ffffff;
+     font: bold;
+     font-style: italic;
+     text-align: center;
+ }
+ 
+ .align-center {
+    margin: 15px;
+    border: 1px dashed rgb(116, 158, 0);
+}

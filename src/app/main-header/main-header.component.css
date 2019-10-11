@@ -1,0 +1,8 @@
+    .main-header {
+       background-color: #74d7f0;
+       text-align: center;
+       font-weight: bold;
+       display: grid;
+       grid-template-columns: 1fr 6fr 2fr;
+       height: 100%;
+   }
